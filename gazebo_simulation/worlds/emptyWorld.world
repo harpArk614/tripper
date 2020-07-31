@@ -9,5 +9,9 @@
       <uri>model://sun</uri>
     </include>
 
+    <gui>
+        <plugin name="keyboard" filename="libKeyboardGUIPlugin.so"/>
+    </gui>
+    
   </world>
 </sdf>
