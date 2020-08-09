@@ -14,7 +14,7 @@
     </include>
 -->
     <include>
-      <uri>model://stairs2</uri>
+      <uri>model://stairs3</uri>
     </include>
        
     <gui>
